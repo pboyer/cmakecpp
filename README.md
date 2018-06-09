@@ -13,12 +13,11 @@ cd build
 cmake ..
 ```
 
+#### Visual Studio Code
+
 Visual Studio Code is the preferred IDE, but you can use whatever you want.
 
-#### Extensions
-
-You'll want:
+Extensions
 
 - C/C++
 - CMake Tools
-
