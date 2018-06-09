@@ -1,4 +1,4 @@
-### CMakeExeTemplate
+### cmakecpp
 
 A simple CMake starter template based on:
 
